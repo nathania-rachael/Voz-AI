@@ -53,7 +53,7 @@ This project made for **AIQoD Hackathon 2025**, is an **AI-powered voice assista
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/allen-reji/Voz-AI
+git clone https://github.com/nathania-rachael/Voz-AI
 cd project-root
 ```
 
